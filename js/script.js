@@ -12,4 +12,3 @@ listaCognomi.push(prompt("inserire cognome"));
 listaCognomi.sort();
 console.log(listaCognomi);
 // aggiungo la var position
-var posizione =
